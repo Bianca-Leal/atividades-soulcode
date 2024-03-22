@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="813fd374-bfac-4278-9470-9eecb89e6611" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/soulcode/atividade1/Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/soulcode/atividade1/Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/soulcode/atividade1/Atividade3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/soulcode/atividade1/Atividade4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/soulcode/atividade1/Atividade5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2e1PCTE6GyTuR8xocYSVAL7V2bR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Atividade1.executor": "Run",
+    "Application.Atividade2.executor": "Run",
+    "Application.Atividade3.executor": "Run",
+    "Application.Atividade4.executor": "Run",
+    "Application.Atividade5.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Atividade5">
+    <configuration name="Atividade2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.soulcode.atividade1.Atividade2" />
+      <module name="atividade1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.soulcode.atividade1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.soulcode.atividade1.Atividade3" />
+      <module name="atividade1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.soulcode.atividade1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.soulcode.atividade1.Atividade4" />
+      <module name="atividade1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.soulcode.atividade1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.soulcode.atividade1.Atividade5" />
+      <module name="atividade1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.soulcode.atividade1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="atividade1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Atividade5" />
+        <item itemvalue="Application.Atividade4" />
+        <item itemvalue="Application.Atividade3" />
+        <item itemvalue="Application.Atividade2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="813fd374-bfac-4278-9470-9eecb89e6611" name="Changes" comment="" />
+      <created>1711068985554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711068985554</updated>
+    </task>
+    <servers />
+  </component>
+</project>
